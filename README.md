@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/dspWJqwc/image-29.png" />
   <p>Enhance your experience.</p>
-  <p>Ambient is a web based proxy built for all of your browsing needs.</p>
+  <p>Thundr is a web based proxy built for all of your browsing needs.</p>
 </div>
 
 ![preview](https://i.ibb.co/xtNW3r2s/Screenshot-2025-03-28-10-37-09-AM.png)
@@ -17,14 +16,14 @@
 
 # Deployment
 > [!WARNING]
-> You __**can not**__ host Ambient locally via static web hosting.
+> You __**can not**__ host Thundr locally via static web hosting.
 > These apply to (but not limited to): Netlify, GitHub Pages, and Cloudflare Pages
 
 ## Server Deployment
 To host Ambient on your server, you must run the following commands:
 
 ```bash
-git clone https://github.com/xnoctra/Ambient
+git clone https://github.com/xtoazt/thunderx
 cd Ambient
 ```
 
@@ -59,9 +58,9 @@ git pull --force --allow-unrelated-histories # This may overwrite your local cha
 If you come across any issues, submit an issue on GitHub, and we'll address it swiftly. 
 
 > [!TIP]
-> If you're having trouble, feel free to contact us on our [Discord](https://discord.gg/5hETqnGc3e).
+> If you're having trouble, feel free to contact us on my other site (real)
 
 # Contributors
 Shoutout to all the following people that have contributed to Ambient.
 
-[![Contributors](https://contrib.rocks/image?repo=xnoctra/ambient)](https://github.com/xnoctra/ambient/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=xnoctra/ambient)](https://github.com/xtoazt/thunderx/graphs/contributors)
